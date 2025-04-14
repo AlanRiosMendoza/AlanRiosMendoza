@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 ###
 
@@ -44,9 +44,6 @@
 
 <br clear="both" />
 
----
-
-<!-- Snake animation -->
 <p align="center">
-  <img src="https://github.com/AlanRiosMendoza/AlanRiosMendoza/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/AlanRiosMendoza/AlanRiosMendoza/blob/output/snake.svg" alt="Snake animation" />
 </p>
