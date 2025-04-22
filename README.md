@@ -24,7 +24,7 @@ I am curious, self-taught, and love working on real-world projects. I firmly bel
 
 ### 🚀 Featured Projects
 
-- 🔐 [Sales Management System - Punto Frío R.T.R.](https://github.com/AlanRiosMendoza/punto-frio)  
+- 🔐 [Sales Management System - Punto Frío R.T.R.](https://github.com/AlanRiosMendoza/SYSTEM-PUNTO-FRIO-RTR)  
   A complete backend with inventory control, users, and JWT security.
 
 - 🐾 [API RESTful Veterinary Management](https://github.com/AlanRiosMendoza/API-RESTful-Veterinary-Management)  
