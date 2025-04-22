@@ -27,8 +27,8 @@ I am curious, self-taught, and love working on real-world projects. I firmly bel
 - 🔐 [Sales Management System - Punto Frío R.T.R.](https://github.com/AlanRiosMendoza/punto-frio)  
   A complete backend with inventory control, users, and JWT security.
 
-- 🤖 [Sports Reservation Chatbot](https://github.com/AlanRiosMendoza/chatbot-canchas)  
-  A Botpress chatbot to automate the reservation of sports fields.
+- 🐾 [API RESTful Veterinary Management](https://github.com/AlanRiosMendoza/API-RESTful-Veterinary-Management)  
+  A RESTful API developed with Node.js, Express, and MongoDB to manage veterinary appointments, client information, and pet data. This API handles CRUD operations and integrates security with JWT authentication.
 
 ---
 
