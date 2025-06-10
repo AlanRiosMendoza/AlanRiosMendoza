@@ -93,7 +93,7 @@ I am curious, self-taught, and love working on real-world projects. I firmly bel
 
 ### 🌐 Portfolio
 
-🔗 [My Web Portfolio](https://portfolio-alan-rios.vercel.app/)  
+🔗 [My Web Portfolio](https://portafolio-alan-rios.vercel.app/)  
 📄 [Download CV](https://drive.google.com/file/d/1c3wPzI5rFvvS_I82BtbCNj07ww77lR0H/view?usp=sharing)
 
 ---
